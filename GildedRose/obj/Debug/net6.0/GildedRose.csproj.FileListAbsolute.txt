@@ -1,0 +1,12 @@
+C:\Users\rober\Desktop\csharpcore\GildedRose\bin\Debug\net6.0\GildedRose.deps.json
+C:\Users\rober\Desktop\csharpcore\GildedRose\bin\Debug\net6.0\GildedRose.dll
+C:\Users\rober\Desktop\csharpcore\GildedRose\bin\Debug\net6.0\ref\GildedRose.dll
+C:\Users\rober\Desktop\csharpcore\GildedRose\bin\Debug\net6.0\GildedRose.pdb
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.AssemblyInfo.cs
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.dll
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\ref\GildedRose.dll
+C:\Users\rober\Desktop\csharpcore\GildedRose\obj\Debug\net6.0\GildedRose.pdb
