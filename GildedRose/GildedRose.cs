@@ -67,6 +67,9 @@ namespace GildedRoseKata
             {
                 quality = 0;
             }
+            if (quality > 50)
+                quality = 50;
+
             return quality;
         }
 
@@ -84,24 +87,9 @@ namespace GildedRoseKata
 
         public int Counter(int value, int quality, int aux)
         {
-            if (aux == 1)
-            {
-                if (quality < 50)
-                {
-                    quality += value;
-                }
-            }
-            else
-            {
-                if (quality < 50)
-                {
-                    quality -= value;
-                }
-            }
-
+            quality = (aux == 1) ? ((quality < 50) ? quality += value : quality = 50) : ((quality <= 50) ? quality -= value : quality = 50);
             return quality;
         }
-
         //fim
     }
 }
